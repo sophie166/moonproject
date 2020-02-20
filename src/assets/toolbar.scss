@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(94, 66, 66);
+    color:white;
+
+    .nav-links{
+        display: flex;
+        color: yellow;
+    }
+
+}
